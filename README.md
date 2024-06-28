@@ -22,6 +22,10 @@
 
 - **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
 
+- **Measures of Sales Report:** [screenshot of Measures for Sales]
+  
+  ![image](https://github.com/dinesh6351/Excel-Sales_Analytics/assets/81980689/5a58ad34-a70d-430b-be84-ca50e4b9e391)
+
 
 ## Finance Report :
 
@@ -39,6 +43,11 @@
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
+
+- **Measures of Financial Report:** [screenshot of Measures for Financial]
+
+  ![image](https://github.com/dinesh6351/Excel-Sales_Analytics/assets/81980689/0a2cb88c-cc12-4c27-9818-c97610abc998)
+
 
 
 ## Technical & Soft Skills:
