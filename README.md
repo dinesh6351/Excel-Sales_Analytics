@@ -1,5 +1,6 @@
 ## Excel-Sales_Analytics Report: 
 
+- **LinkedIn :** [Link](https://www.linkedin.com/posts/kmdinesh_atliq-sales-and-finance-excel-report-activity-7211023552978857985-J1lO?utm_source=share&utm_medium=member_desktop)
 
 - **Project objective:** 
 
